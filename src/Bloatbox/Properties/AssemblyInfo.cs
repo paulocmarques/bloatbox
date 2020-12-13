@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
 [assembly: AssemblyTitle("Bloatbox")]
-[assembly: AssemblyDescription("The alternate Windows 10 app manager")]
+[assembly: AssemblyDescription("Remove Bloatwares from Windows 10")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Builtbybel")]
 [assembly: AssemblyProduct("Bloatbox")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // Sie können alle Werte angeben oder Standardwerte für die Build- und Revisionsnummern verwenden,
 // übernehmen, indem Sie "*" eingeben:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("0.13.0")]
-[assembly: AssemblyFileVersion("0.13.0")]
+[assembly: AssemblyVersion("0.15.0")]
+[assembly: AssemblyFileVersion("0.15.0")]
